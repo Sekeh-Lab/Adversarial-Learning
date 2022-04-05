@@ -1,2 +1,2 @@
-# Adverse-Learning
+# Adversarial-Learning
 Adversarial Learning
